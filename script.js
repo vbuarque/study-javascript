@@ -1,3 +1,5 @@
+// DIA 1 DE ESTUDOS //
+
 // Como criar uma variavel em javascript
 
 // let firstName = 'Vinicius';
@@ -122,8 +124,17 @@
 // saleStatus('Pen') -> 'Pen' é um argumento da minha função, ou seja, é um valor que eu passo para o parametro da minha função.
 
 // Função com calculo
-function percentage10(price) {
-    return price - (price * 10 / 100)
-}
+// function percentage10(price) {
+//     return price - (price * 10 / 100)
+// }
 
-console.log(percentage10(30))
+// console.log(percentage10(30))
+
+// Para eu poder retornar algo que minha função esta fazendo eu preciso utilizar o return, pois o return é o que vai me retornar o valor que eu quero, no qual o return armazena o valor para depois eu poder utilizar ele.
+
+// FINAL DO DIA 1 DE ESTUDOS //
+
+// ---------------------------------------------------------------------------------------------------------------------------------------------- //
+
+// DIA 2 DE ESTUDOS //
+
